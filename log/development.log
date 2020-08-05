@@ -1382,3 +1382,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 23ms (Views: 11.8ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 89.45.90.138 at 2020-08-05 05:24:48 +0000
+Processing by StaticController#about as HTML
+  Rendering static/some_page.html.erb
+  Rendered static/some_page.html.erb (2.2ms)
+Completed 200 OK in 20ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
